@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("测试合并冲突的hot-fix代码！！！");
         System.out.println("今天是2021-6-16");
         System.out.println("吖涩嘞！！");
+        System.out.println("push推送到远程库！！！");
     }
 }
